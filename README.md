@@ -1,7 +1,7 @@
 # typecho-kiana
 博客可以挂起来个萌萌哒萝莉
 
-<img src="http://7xjpi6.com1.z0.glb.clouddn.com/2016/02/2569348883.gif" alt="kana.gif" >
+<img src="https://7xjpi6.com1.z0.glb.clouddn.com/2016/02/2569348883.gif" alt="kana.gif" >
 食用方法：将压缩包解压到typecho的插件目录，将文件夹重命名为kiana，然后后台启用该插件即可，看首页是不是出现了萌萌哒的小萝莉。
 如果没有出现，请在设置里打开加载选项。
 
