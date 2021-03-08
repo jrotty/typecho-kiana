@@ -5,7 +5,7 @@
  * @package kiana
  * @author jrotty
  * @version 1.0
- * @link http://qqdie.com
+ * @link http://zezeshe.com
  */
 
 class kiana_Plugin implements Typecho_Plugin_Interface
