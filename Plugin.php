@@ -1,11 +1,11 @@
 <?php
 /**
- * 来自http://853.bronya.net的Sonic853做的WordPress博客琪亚娜小挂件
+ * 来自Sonic853做的WordPress博客琪亚娜小挂件
  * 
  * @package kiana
  * @author jrotty
  * @version 1.0
- * @link http://zezeshe.com
+ * @link 
  */
 
 class kiana_Plugin implements Typecho_Plugin_Interface
